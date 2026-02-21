@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Script is gone bro.")
+-- game.Players.LocalPlayer:Kick("Script is gone bro.")
